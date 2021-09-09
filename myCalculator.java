@@ -1,12 +1,6 @@
 import java.lang.Math;
 import javax.swing.JOptionPane;
-/*
-Alexander Nair
-my joption pane example
-csce 111
-uin 828002051
-date-1-30-2020
-*/
+
 
 class myCalculator {
   public static void main(String[] args) {
